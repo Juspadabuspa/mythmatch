@@ -1,0 +1,23 @@
+[
+    {
+      "filename": "drogba_2012.md",
+      "title": "The Lion, The Rain, The Redemption",
+      "match": "UEFA Champions League Final, 2012",
+      "teams": ["Chelsea", "Bayern Munich"],
+      "blurb": "In one night, past sins forgiven. In one header, destiny rewritten. In one kick, history made eternal.",
+      "tags": ["Chelsea", "2012", "Redemption", "UCL"],
+      "featured": true,
+      "publish_date": "2025-04-07"
+    },
+    {
+      "filename": "aguero_9320.md",
+      "title": "93:20 – The Moment That Bent Time",
+      "match": "Premier League Final Day, 2012",
+      "teams": ["Manchester City", "QPR"],
+      "blurb": "When seconds became eternity, and a single swing of a foot changed the course of a club forever.",
+      "tags": ["Man City", "2012", "Glory", "Premier League"],
+      "featured": true,
+      "publish_date": "2025-04-14"
+    }
+  ]
+  
